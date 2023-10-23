@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "6503209f508be6f56d79ec42"
+  },
+  "email": "atanveer712@gmail.com",
+  "ip": "127.0.0.1",
+  "otp": 222426,
+  "createdAt": {
+    "$date": "2023-09-14T15:02:55.362Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T15:02:55.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65074e2c7891e5c3bc8a9d38"
+  },
+  "email": "atanveer712@gmail.com",
+  "ip": "127.0.0.1",
+  "otp": 266771,
+  "createdAt": {
+    "$date": "2023-09-17T19:06:20.579Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T19:06:20.579Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65074e377891e5c3bc8a9d3b"
+  },
+  "email": "atanveer71782@gmail.com",
+  "ip": "127.0.0.1",
+  "otp": 439200,
+  "createdAt": {
+    "$date": "2023-09-17T19:06:31.275Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T19:06:31.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65074ed7f8a771c9a92ca204"
+  },
+  "email": "atanveer715@gmail.com",
+  "ip": "127.0.0.1",
+  "otp": 507703,
+  "createdAt": {
+    "$date": "2023-09-17T19:09:11.544Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-17T19:09:11.544Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652cacff55d60ca0a51dde35"
+  },
+  "email": "atanveer55@gmail.com",
+  "ip": "127.0.0.1",
+  "otp": 451958,
+  "createdAt": {
+    "$date": "2023-10-16T03:24:48.004Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-16T03:24:48.004Z"
+  },
+  "__v": 0
+}]

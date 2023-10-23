@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "65081a38b6c60fc530030b0b"
+  },
+  "name": "Simon",
+  "location": "City A",
+  "foundingYear": 1995,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65081a45b6c60fc530030b0d"
+  },
+  "name": "Harper",
+  "location": "City B",
+  "foundingYear": 2000,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65081a5fb6c60fc530030b0f"
+  },
+  "name": "Scholastic",
+  "location": "City c",
+  "foundingYear": 1990,
+  "__v": 0
+}]

@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6528e7ad5cf5094e81a4a15b"
+  },
+  "user": {
+    "$oid": "650a477e7d8b5eaa7cc64ecd"
+  },
+  "orderItems": [
+    {
+      "productId": {
+        "$oid": "65249223ed6bd8b682997346"
+      },
+      "quantity": 1
+    }
+  ],
+  "checkout": true,
+  "createdAt": {
+    "$date": "2023-10-13T06:46:05.824Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T07:42:33.278Z"
+  },
+  "__v": 4
+},
+{
+  "_id": {
+    "$oid": "652925ecc4683c77c52382ab"
+  },
+  "user": {
+    "$oid": "650a477e7d8b5eaa7cc64ecd"
+  },
+  "orderItems": [
+    {
+      "productId": {
+        "$oid": "6508248fbfac3fde94db854e"
+      },
+      "quantity": 1
+    },
+    {
+      "productId": {
+        "$oid": "6524c458ac7f90dead729347"
+      },
+      "quantity": 3
+    }
+  ],
+  "checkout": true,
+  "createdAt": {
+    "$date": "2023-10-13T11:11:40.516Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T11:13:09.484Z"
+  },
+  "__v": 1
+}]

@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "6528f4e85cf5094e81a4a21a"
+  },
+  "user": {
+    "$oid": "650a477e7d8b5eaa7cc64ecb"
+  },
+  "orderItems": [
+    {
+      "quantity": 1,
+      "productDetails": {
+        "_id": {
+          "$oid": "65249223ed6bd8b682997346"
+        },
+        "name": "c++ (extended C)",
+        "price": 720
+      },
+      "genericDiscount": {
+        "percentage": 0,
+        "discountedPrice": 0
+      },
+      "premiumDiscount": {
+        "percentage": 0,
+        "discountedPrice": 0
+      },
+      "_id": {
+        "$oid": "6528f4e85cf5094e81a4a21b"
+      }
+    }
+  ],
+  "totalValue": 720,
+  "totalDiscountPriceGeneric": 0,
+  "totalDiscountPricePremium": 0,
+  "checkout": true,
+  "totalValueAfterGenericDiscount": 720,
+  "totalValueAfterPremiumDiscount": 720,
+  "discount_type": "none",
+  "discount_price": 720,
+  "createdAt": {
+    "$date": "2023-10-13T07:42:32.982Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T07:42:32.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65292645c4683c77c52382df"
+  },
+  "user": {
+    "$oid": "650a477e7d8b5eaa7cc64ecb"
+  },
+  "orderItems": [
+    {
+      "quantity": 1,
+      "productDetails": {
+        "_id": {
+          "$oid": "6508248fbfac3fde94db854e"
+        },
+        "name": "Linear Algebra",
+        "price": 7011
+      },
+      "genericDiscount": {
+        "percentage": 15,
+        "discountedPrice": 1051.65
+      },
+      "premiumDiscount": {
+        "percentage": 30,
+        "discountedPrice": 2103.3
+      },
+      "_id": {
+        "$oid": "65292645c4683c77c52382e0"
+      }
+    },
+    {
+      "quantity": 3,
+      "productDetails": {
+        "_id": {
+          "$oid": "6524c458ac7f90dead729347"
+        },
+        "name": "MongoDB",
+        "price": 570
+      },
+      "genericDiscount": {
+        "percentage": 0,
+        "discountedPrice": 0
+      },
+      "premiumDiscount": {
+        "percentage": 0,
+        "discountedPrice": 0
+      },
+      "_id": {
+        "$oid": "65292645c4683c77c52382e1"
+      }
+    }
+  ],
+  "totalValue": 8721,
+  "totalDiscountPriceGeneric": 1051.65,
+  "totalDiscountPricePremium": 2103.3,
+  "checkout": true,
+  "totalValueAfterGenericDiscount": 7669.35,
+  "totalValueAfterPremiumDiscount": 6617.7,
+  "discount_type": "none",
+  "discount_price": 8721,
+  "createdAt": {
+    "$date": "2023-10-13T11:13:09.224Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T11:13:09.224Z"
+  },
+  "__v": 0
+}]
