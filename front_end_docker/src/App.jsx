@@ -88,7 +88,7 @@ function App() {
 
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<HomePage />} />
+          <Route path="/" element={<RegistrationPage />} />
           <Route path="/product/detail/:id" element={<DetailPage />} />
 
           <Route element={<UnAuthenticate />}>
