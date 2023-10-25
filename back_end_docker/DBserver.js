@@ -9,7 +9,7 @@ class DBServer{
         try{
             if(true){
 
-                this.url = "mongodb://172.17.0.2:27017/BJIT";
+                this.url = "mongodb://mongo:27017/BJIT";
                 const client = await mongoose.connect(this.url);
                 
                 if(client){
