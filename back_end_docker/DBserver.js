@@ -9,7 +9,7 @@ class DBServer{
         try{
             if(true){
 
-                this.url = "mongodb://mongo:27017/BJIT";
+                this.url = "mongodb+srv://BJIT_PRACTICE:bjit@cluster0.wnspbx2.mongodb.net/BJIT?retryWrites=true&w=majority";
                 const client = await mongoose.connect(this.url);
                 
                 if(client){
