@@ -33,7 +33,7 @@ const port = process.env.PORT || 8000;
 
 // Enable CORS for all routes
 const corsOptions = {
-  origin: "*",
+  origin: "http://35.181.178.126:5173",
   credentials: true, 
 };
 
