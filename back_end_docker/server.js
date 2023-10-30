@@ -33,7 +33,7 @@ const port = process.env.PORT || 8000;
 
 // Enable CORS for all routes
 const corsOptions = {
-  origin: "http://localhost:5173",
+  origin: "*",
   credentials: true, 
 };
 
