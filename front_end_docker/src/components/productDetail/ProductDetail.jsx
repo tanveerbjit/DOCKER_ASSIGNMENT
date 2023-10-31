@@ -29,7 +29,7 @@ function ProductDetails() {
     
     try {
       
-      const response = await fetch(`http://35.181.178.126:3000/api/v1/product/show/${id}`, {
+      const response = await fetch(`http://13.39.48.41:3000/api/v1/product/show/${id}`, {
         method: 'GET',
         headers: {
           'Content-Type': 'application/json',
